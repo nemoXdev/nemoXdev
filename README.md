@@ -71,13 +71,13 @@
 
 ## 📫 Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/nemoXdev
 
 ---
 
 ## ⚡ Note
 
-I build and learn mostly using my phone (Termux), focusing on real-world projects and practical skills.
+I rely on mobile-based development and learning using Termux and Acode, with a practical focus on building real-world projects and developing programming skills that are applicable in real work environments.
 
 ---
 
