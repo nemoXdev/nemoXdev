@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nemoXdev&show_icons=true&theme=dark" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=nemoXdev&theme=dark" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemoXdev&layout=compact&theme=dark" />
 </p>
 
 ---
